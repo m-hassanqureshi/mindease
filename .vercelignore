@@ -1,0 +1,13 @@
+node_modules
+.git
+.env
+.env.local
+.DS_Store
+*.log
+dist
+.vite
+.gitignore
+README.md
+CONTEXT_ENGINEERING.md
+DEPLOYMENT.md
+.env.example
