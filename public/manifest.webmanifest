@@ -1,0 +1,13 @@
+{
+  "name": "MindEase - Mental Health Companion",
+  "short_name": "MindEase",
+  "description": "Mood tracking, journaling, guided breathing, and an empathetic AI companion.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#7c3aed",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
